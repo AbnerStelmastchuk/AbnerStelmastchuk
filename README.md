@@ -7,7 +7,7 @@
 - 📫 How to reach me: My phone number is (43)999604807. And my city is Ribeirão do Pinhal - PR - Brazil
 - 😄 Pronouns: he/his
 
-<div align="center">
+<div align="flex">
   <a href="https://github.com/AbnerStelmastchuk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbnerStelmastchuk&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerStelmastchuk&layout=compact&langs_count=7&theme=omni"/>
