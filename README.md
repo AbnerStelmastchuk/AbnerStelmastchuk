@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently: learning rockeseat ignite course. NodeJs, JavaScript and Sql. And I desire to work in back-end
+- 🌱 I’m currently: Site Reliability Engineering at NttData
 - 💬 Ask me about: everything what you want to know :). In my Email: abnerstelmastchuk@outlook.com
 - 📫 How to reach me: My phone number is (43)999604807. And my city is Ribeirão do Pinhal - PR - Brazil
 - 😄 Pronouns: he/his
